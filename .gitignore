@@ -1,17 +1,19 @@
 # Python virtual environments
 venv/
 .venv/
+env/
 
 # Python cache files
 __pycache__/
 *.py[cod]
 
-# Environment variables and secret information
+# Environment files and secrets
 .env
 .env.*
 
-# VS Code personal settings
+# Editor settings
 .vscode/
+.idea/
 
 # Operating-system files
 .DS_Store
